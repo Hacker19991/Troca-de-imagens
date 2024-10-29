@@ -1,6 +1,6 @@
 # **AppFotos (Troca de imagens)**
 
-> Um aplicativo Android desenvolvido para monitorar o consumo de recursos.
+> Um aplicativo Android para troca de fotos ao vivo.
 
 ## Descrição
 O **AppFotos** permite que o usuario possa trocar de imagens atrávez dos botões principais insiridos no trabalho para cada imagem.
