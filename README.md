@@ -36,7 +36,7 @@ Siga os passos abaixo para rodar o projeto localmente:
    ├── src
    │   ├── main
    │   │   ├── java/com/example/appconsumo
-   │   │   │   ├── MainActivity.java # Atividade principal para monitoramento de consumo
+   │   │   │   ├── MainActivity.java # Atividade principal onde a troca de imagens é executada
    │   │   ├── res
    │   │   │   ├── drawable
    │   │   │   │   ├── foto1.jpg # Primeira imagem e a princiapal
